@@ -15,3 +15,7 @@
 ### Contact
 
 💬 discord • [Belaz#8678](https://discord.bio/p/belaz)
+
+### My stats
+
+![Sirius stats](https://github-readme-stats.vercel.app/api?username=51Sirius)
