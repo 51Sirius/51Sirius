@@ -18,4 +18,4 @@
 
 ### My stats
 
-![Sirius stats](https://github-readme-stats.vercel.app/api?username=51Sirius)
+![Sirius stats](https://github-readme-stats.vercel.app/api?username=51Sirius&show_icons=true&theme=gotham)
