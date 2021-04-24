@@ -9,6 +9,7 @@
 - Python (discord.py, Pillow, bs4, Flask, vk_api, PyGame)  
 - HTML, CSS  
 - SQLite
+- Nginx
 
 ---
 
