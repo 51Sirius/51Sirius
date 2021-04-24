@@ -15,6 +15,7 @@
 ### Contact
 
 💬 discord • [Belaz#8678](https://discord.bio/p/belaz)
+
 🌎 website • [MyBlog](http://46.17.105.8/)
 
 ### My stats
