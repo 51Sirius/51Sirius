@@ -17,7 +17,9 @@
 
 💬 discord • [Belaz#8678](https://discord.bio/p/belaz)
 
-🌎 website • [MyBlog](http://46.17.105.8/)
+🌎 website • [MathTR](http://46.17.105.8/)
+
+🌎 animelist • [Shiki](https://shikimori.one/NightGod)
 
 ### My stats
 
