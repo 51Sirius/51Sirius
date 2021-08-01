@@ -7,6 +7,7 @@
 ### Experience
 
 - Python (discord.py, Pillow, bs4, Flask, vk_api, PyGame)  
+- JavaScript
 - HTML, CSS  
 - SQLite
 - Nginx
