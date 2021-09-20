@@ -16,11 +16,14 @@
 
 ### Contact
 
-💬 discord • [Belaz#8678](https://discord.bio/p/belaz)
+💬 discord • [Belaz#8678]![Belaz]
+(https://discord.bio/p/belaz)
 
 🌎 website • [MathTR](http://46.17.105.8/)
 
 🌎 animelist • [Shiki](https://shikimori.one/NightGod)
+
+(https://user-images.githubusercontent.com/71227522/134037169-e2271067-5ebf-47bc-8282-690cd2c1f7ec.jpg)
 
 ### My stats
 
