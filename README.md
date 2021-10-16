@@ -23,7 +23,6 @@
 
 🌎 animelist • [Shiki](https://shikimori.one/NightGod)
 
-![Belaz](https://user-images.githubusercontent.com/71227522/134037551-ed30d062-318f-45f9-8fec-2ec094be3814.jpg)
 
 
 ### My stats
