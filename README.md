@@ -1,6 +1,6 @@
 ## 👋 **Hi! I'm Sirius.**  
 
-17-year-old software developer.
+18-year-old software developer.
 
 ---
 
