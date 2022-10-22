@@ -36,7 +36,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=51Sirius&show_icons=true&theme=radical)
 
-[![51Sirius's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=51Sirius&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![51Sirius's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=51Sirius&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top lang
 
