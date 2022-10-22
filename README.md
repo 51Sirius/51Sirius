@@ -13,6 +13,7 @@
 - SQLite
 - Nginx
 - 3D Modeling
+- Java
 
 ---
 
