@@ -36,7 +36,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=51Sirius&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=51Sirius)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top lang
 
