@@ -20,9 +20,11 @@
 ### Contact
 
 
-💬 discord • [Belaz#8678](https://discord.bio/p/belaz)
+🌎 Discord • [MyDiscordServer]([https://shikimori.one/NightGod]([https://www.leagueofgraphs.com/summoner/ru/BelazGOD]([https://vk.com/id594567825](https://discord.gg/RvpgayjGDw))))
 
-🌎 website • [MathTR](http://46.17.105.8/)
+🌎 VK • [VKCOM]([https://shikimori.one/NightGod]([https://www.leagueofgraphs.com/summoner/ru/BelazGOD](https://vk.com/id594567825)))
+
+🌎 LOL • [LeagueOfGraphs]([https://shikimori.one/NightGod](https://www.leagueofgraphs.com/summoner/ru/BelazGOD))
 
 🌎 animelist • [Shiki](https://shikimori.one/NightGod)
 
