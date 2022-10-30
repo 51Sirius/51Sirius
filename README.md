@@ -8,7 +8,7 @@
 
 - Python (discord.py, Pillow, bs4, Flask, vk_api, PyGame, SQLAlchemy)  
 - JavaScript
-- С
+- С, C++
 - HTML, CSS  
 - SQLite
 - Nginx
