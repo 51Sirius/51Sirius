@@ -32,6 +32,8 @@
 
 ### My stats
 
+![Belaz trophy](https://github-profile-trophy.vercel.app/?username=51Sirius)
+
 
 ![Sirius' Github Stats](https://github-readme-stats.vercel.app/api?username=51Sirius&hide=issues,prs&show_icons=true&theme=radical)
 
