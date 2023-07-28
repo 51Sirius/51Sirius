@@ -12,8 +12,6 @@
 - HTML, CSS  
 - SQLite
 - Nginx
-- 3D Modeling
-- Java
 
 ---
 
