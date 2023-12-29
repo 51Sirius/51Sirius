@@ -1,6 +1,6 @@
 ## 👋 **Hi! I'm Sirius.**  
 
-19-year-old software developer.
+20-year-old software developer.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - Python (discord.py, Pillow, bs4, Flask, vk_api, PyGame, SQLAlchemy)  
 - JavaScript
-- С, C++
+- С, C++, C#
 - HTML, CSS  
 - SQLite
 - Nginx
