@@ -18,13 +18,10 @@
 ### Contact
 
 
-🌎 Discord • [MyDiscordServer](https://discord.gg/RvpgayjGDw)
+🌎 Discord • belaz
 
-🌎 VK • [VKCOM](https://vk.com/id594567825)
+🌎 VK • [VKCOM](https://vk.com/51sirius)
 
-🌎 LOL • [LeagueOfGraphs](https://www.leagueofgraphs.com/summoner/ru/BelazGOD)
-
-🌎 animelist • [Shiki](https://shikimori.one/NightGod)
 
 
 ### My stats
