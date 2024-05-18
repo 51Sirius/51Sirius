@@ -10,7 +10,7 @@
 - JavaScript
 - С, C++, C#, Java
 - HTML, CSS  
-- SQLite
+- SQLite, Postgresql
 - Nginx
 
 ---
