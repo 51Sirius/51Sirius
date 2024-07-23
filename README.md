@@ -75,9 +75,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=51Sirius&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51Sirius&show_icons=true?&theme=nord&&layout=donut&langs_count=239&hide=jupyter%20notebook,TeX&)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top lang
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51Sirius&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51Sirius&show_icons=true?&theme=radical&&layout=donut&langs_count=239&hide=jupyter%20notebook,TeX&)](https://github.com/anuraghazra/github-readme-stats)
 
