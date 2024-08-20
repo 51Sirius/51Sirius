@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    environment: 
+      name: METRICS_TOKEN
     steps:
       - uses: lowlighter/metrics@latest
         with:
