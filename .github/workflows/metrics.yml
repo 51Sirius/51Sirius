@@ -18,10 +18,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/ru/lichnost-intj
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -49,13 +45,6 @@ jobs:
           plugin_leetcode_sections: solved
           plugin_leetcode_user: 51Sirius
           plugin_people: yes
-          plugin_people_limit: 8
+          plugin_people_limit: 20
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 2
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 3
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: sirius-project
