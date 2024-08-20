@@ -18,21 +18,33 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality
+          plugin_16personalities_url: https://www.16personalities.com/ru/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/intj-a/x/ogn8t4omu?utm_source=results-assertive-architect&utm_medium=email&utm_campaign=ru&utm_content=view-results
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_anilist: yes
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: Belaz
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_ignored: jupyter notebook
           plugin_languages_limit: 20
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -45,6 +57,18 @@ jobs:
           plugin_leetcode_sections: solved
           plugin_leetcode_user: 51Sirius
           plugin_people: yes
-          plugin_people_limit: 20
+          plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_limit: 3
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_user: sirius-project
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_traffic: yes
