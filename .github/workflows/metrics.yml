@@ -4,8 +4,12 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    environment: 
+      name: METRICS_TOKEN
     steps:
 
       - name: 🦑 Medias
