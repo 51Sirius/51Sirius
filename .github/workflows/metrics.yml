@@ -21,8 +21,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/ru/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/intj-a/x/ogn8t4omu?utm_source=results-assertive-architect&utm_medium=email&utm_campaign=ru&utm_content=view-results
-          plugin_achievements: yes
+          plugin_16personalities_url: https://www.16personalities.com/profiles/intj-a/m/ogn8t4omu
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
