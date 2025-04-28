@@ -40,18 +40,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_fortune: yes
 
-      - name: 🦑 Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount
-
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
