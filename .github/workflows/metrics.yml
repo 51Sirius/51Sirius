@@ -12,14 +12,14 @@ jobs:
       name: METRICS_TOKEN
     steps:
 
-      - name: 🦑 Medias
+      - name: Anime
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: anime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_order: anilist, music
+          config_order: anilist
           output_action: gist
           plugin_anilist_user: Belaz
           plugin_anilist: yes
@@ -29,7 +29,7 @@ jobs:
           plugin_anilist_limit_characters: 22
 
 
-      - name: 🦑 Achievements
+      - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -38,8 +38,7 @@ jobs:
           base: ""
           output_action: gist
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+          plugin_achievements_display: detailed
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
