@@ -21,9 +21,10 @@ jobs:
           base: ""
           config_order: anilist, music
           output_action: gist
+          plugin_anilist_user: Belaz
           plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters, reading, watching
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
 
